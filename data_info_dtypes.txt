@@ -1,6 +1,0 @@
-partido_oficial            float64
-categoria_altitud          float64
-confederacion_rival_num    float64
-resultado_num                int64
-localia_peru_num           float64
-rival_encoded              float64
