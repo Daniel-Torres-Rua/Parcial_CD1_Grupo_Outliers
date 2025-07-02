@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo analizar el rendimiento de la selección nacio
 Este repositorio contiene los siguientes archivos y directorios:
 
 -   `peru_match_results.csv`: El conjunto de datos original utilizado para el análisis y modelado.
--   `Nombre_del_Notebook.ipynb`: El cuaderno de Google Colab que documenta todo el proceso, desde la carga y preprocesamiento de datos hasta el modelado, evaluación y comparación de los enfoques con Keras y PyTorch.
+-   `Parcial_CD1_Grupo_Outliers.ipynb`: El cuaderno de Google Colab que documenta todo el proceso, desde la carga y preprocesamiento de datos hasta el modelado, evaluación y comparación de los enfoques con Keras y PyTorch.
 -   `mi_app.py`: El script de Python para la aplicación interactiva Streamlit.
 -   `existing_analysis_outputs/`: Directorio que contiene los resultados del análisis y modelado, incluyendo gráficos (EDA, curvas de aprendizaje, matrices de confusión), tablas comparativas de métricas y tiempos, y detalles de los hiperparámetros óptimos encontrados.
 
