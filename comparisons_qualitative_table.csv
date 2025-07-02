@@ -1,8 +1,0 @@
-,Aspecto,Keras,PyTorch
-0,Sintaxis,Muy simple e intuitiva,Más explícita y detallada
-1,Flexibilidad,Moderada,Muy alta
-2,Curva de aprendizaje,Baja,Moderada/alta
-3,Herramientas de tuning,KerasTuner (específico),GridSearchCV (genérico)
-4,Documentación,Excelente,Buena
-5,Comunidad,Muy grande,Grande y creciente
-6,Integración con sklearn,Buena,Requiere skorch
