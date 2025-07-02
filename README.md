@@ -69,9 +69,9 @@ Este proyecto demuestra la aplicación de técnicas de análisis de datos y mode
 
 ---
 
-**Autor:** [
+**Autor:** 
 * Bravo Yataco Luiggi Mariano
 * Llamoca León Israel
 * Poma Gómez Diego Alonso
-* Torres Rua Daniel Isaias]
+* Torres Rua Daniel Isaias
 **Fecha:** [1/07/2025]
