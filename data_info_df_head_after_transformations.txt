@@ -1,0 +1,6 @@
+         rival  partido_oficial  categoria_altitud  confederacion_rival_num  resultado_num  localia_peru_num
+578  Venezuela                0                  1                        0              0                 0
+579     Mexico                0                  1                        1              1                 1
+580     Brazil                1                  1                        0              0                 0
+581  Venezuela                1                  1                        0              2                 0
+582   Colombia                1                  1                        0              1                 0

@@ -1,0 +1,7 @@
+Métrica         Keras      PyTorch    Diferencia  
+---------------------------------------------
+Accuracy        0.6000    0.7000    -0.1000
+Precisión       0.6333    0.5786    +0.0548
+Recall          0.6000    0.7000    -0.1000
+F1-Score        0.6140    0.6140    +0.0000
+Tiempo tuning   161.90s   79.47s   +82.43s
