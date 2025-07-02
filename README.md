@@ -69,7 +69,8 @@ Este proyecto demuestra la aplicación de técnicas de análisis de datos y mode
 
 ---
 
-**Autor:** [* Bravo Yataco Luiggi Mariano
+**Autor:** [
+* Bravo Yataco Luiggi Mariano
 * Llamoca León Israel
 * Poma Gómez Diego Alonso
 * Torres Rua Daniel Isaias]
