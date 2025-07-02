@@ -1,5 +1,14 @@
 # Parcial_CD1_Grupo_Outliers
 Trabajo de medio curso del curso de Ciencia de Datos 1
+
+**Autores:** 
+* Bravo Yataco Luiggi Mariano
+* Llamoca León Israel
+* Poma Gómez Diego Alonso
+* Torres Rua Daniel Isaias
+
+**Fecha:** [1/07/2025]
+
 # Análisis y Modelado de Resultados de Partidos de la Selección Peruana bajo la Dirección de Ricardo Gareca
 
 ## Introducción
@@ -68,10 +77,3 @@ El directorio `existing_analysis_outputs/` contiene los gráficos generados dura
 Este proyecto demuestra la aplicación de técnicas de análisis de datos y modelado con redes neuronales utilizando Keras y PyTorch para predecir resultados de partidos de fútbol. La comparación entre ambas librerías resalta sus fortalezas y debilidades en un caso de uso práctico. La aplicación Streamlit proporciona una interfaz interactiva para poner el modelo en funcionamiento.
 
 ---
-
-**Autor:** 
-* Bravo Yataco Luiggi Mariano
-* Llamoca León Israel
-* Poma Gómez Diego Alonso
-* Torres Rua Daniel Isaias
-**Fecha:** [1/07/2025]
