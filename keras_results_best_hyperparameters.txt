@@ -1,6 +1,0 @@
-Keras:
-- Neuronas Capa 1: 128
-- Neuronas Capa 2: 32
-- Dropout: 0.30
-- Tasa de Aprendizaje: 0.01
-- Épocas finales: 50
