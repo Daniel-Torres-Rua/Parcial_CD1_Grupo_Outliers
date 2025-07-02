@@ -1,8 +1,0 @@
-
-PyTorch:
-- Learning Rate: 0.001
-- Neuronas Capa 1: 128
-- Neuronas Capa 2: 32
-- Dropout: 0.2
-- Batch Size: 64
-- Épocas: 50
