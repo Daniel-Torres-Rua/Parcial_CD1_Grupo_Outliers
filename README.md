@@ -1,4 +1,4 @@
-# Parcial_CD1_Grupo_Outliers
+# Parcial_CD1_Grupo_Data_Miners
 Trabajo de medio curso del curso de Ciencia de Datos 1
 
 **Autores:** 
